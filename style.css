@@ -24,7 +24,7 @@ header {
 
 button {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 26%;
 
   height: 40px;
@@ -33,7 +33,7 @@ button {
 
 label {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 26%;
 
   font-size: xx-large;
